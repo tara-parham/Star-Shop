@@ -1,0 +1,13 @@
+@charset "utf-8";
+.header{background-color:#EF78B3; font:bolder; font-size:18px; color:white; text-align:center; padding:20px; height:55px;}
+
+.gallery{ width:257px; float:right; height: 345px; border: 2px dashed #F702B8;
+margin:20px; text-align: center; overflow:hidden;-moz-transition:all 500ms linear;}
+
+.gallery:hover{border:2px solid #BB0A62; height:590px; width:257px}
+
+.gallery img{ width:100%; height:230px;}
+
+.arrange{ text-align:center; padding:15px;  font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;}
+
+.ol{ font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; direction:rtl; color:#9B0A5B; padding:5px;}
